@@ -1,0 +1,23 @@
+{
+  "name": "mailbox",
+  "version": "1.0.0",
+  "description": "Headless email proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenselle/mailbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenselle/mailbox/issues"
+  },
+  "homepage": "https://github.com/glenselle/mailbox#readme",
+  "dependencies": {
+    "imap-parser": "0.0.3",
+    "node-imap": "0.9.6"
+  }
+}
